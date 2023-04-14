@@ -4,7 +4,7 @@ This project implements different libraries to find out how compatible React is 
 
 ## Installation
 
-Use the package manager [npm](https://nodejs.org/en/download) to install the needed dependicies.
+Use the package manager [npm](https://nodejs.org/en/download) to install the needed dependencies.
 
 ```bash
 npm i
